@@ -1,3 +1,22 @@
 button {
-    background-color: plum;
+    width: 100%;
+}
+.AC {
+    background-color: rgb(255, 135, 92);
+}
+.C {
+    background-color: cadetblue;
+}
+.Operator {
+    background-color: sandybrown;
+}
+.Black {
+    background-color: black;
+    color: antiquewhite;
+}
+.Equals {
+    background-color: palegreen;
+}
+table {
+    border-radius: 15px;
 }
